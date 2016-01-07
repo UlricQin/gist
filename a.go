@@ -6,3 +6,5 @@ func main() {
 		god.say("The world is awesome")
 	}
 }
+
+func foo() {}
